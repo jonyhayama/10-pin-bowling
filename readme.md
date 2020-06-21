@@ -4,6 +4,8 @@
 
 I was presented with this test during an interview process.
 
+You can read the callenge description on [this file](https://github.com/jonyhayama/10-pin-bowling/blob/master/ruby-challenge-bowling_5d324cbf0656f.pdf)
+
 ## How to install
 
 ```bash
